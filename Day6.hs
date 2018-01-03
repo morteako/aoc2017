@@ -2,7 +2,6 @@ module Main where
 
 import           Data.Function   (on)
 import           Data.List       (group, maximumBy, sort)
-import qualified Debug.Trace     as Trace
 
 import           Data.Map.Strict (Map, (!))
 import qualified Data.Map.Strict as Map
